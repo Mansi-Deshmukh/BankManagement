@@ -14,8 +14,8 @@ This is a Java Spring Boot application for managing banks, branches, users, empl
 To get started with the project, clone the repository to your local machine and import it into your favorite IDE. You will need to have Java 8 or higher installed on your machine.
 
 To build and run the application, you can use the following Maven commands:
-mvn clean install
-mvn spring-boot:run
+* mvn clean install
+* mvn spring-boot:run
 
 The application should be accessible at http://localhost:8080.
 
